@@ -1,4 +1,5 @@
 # Apuntes-HTML 2025/2026
+[Imagen de fondo](Fightstick.png)
 
 ## Structure and Semantics
 
@@ -30,6 +31,7 @@
 **Learning HTML**
 
 HTML is relatively easy to learn, making it accessible for beginners. Many online resources and tutorials are available to help you get started with creating your own web pages.
+
 
 ``` html
 <html>
