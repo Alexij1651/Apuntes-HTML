@@ -1,5 +1,5 @@
 # Apuntes-HTML 2025/2026
-![Imagen de fondo](Fightstick.png)
+![Imagen de fondo](./img/Fightstick.png)
 
 ## Structure and Semantics
 
