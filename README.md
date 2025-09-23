@@ -7,6 +7,8 @@
     Each element is defined by tags, such as `<h1>` for headings and `<p>` for paragraphs.
     Tags are enclosed in angle brackets and usually come in pairs: an opening tag and a closing tag.
 
+![html](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png)
+
 ## Hyperlinks
 
     HTML allows for the creation of hyperlinks, enabling users to navigate between different web pages easily.
